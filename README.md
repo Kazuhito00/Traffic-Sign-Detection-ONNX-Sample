@@ -1,5 +1,5 @@
 # Traffic-Sign-Detection-ONNX-Sample
-[traffic-sign-detection](https://github.com/aarcosg/traffic-sign-detection) の Faster RCNN ResNet50をONNXに変換して推論するサンプルです。<br>
+[aarcosg/traffic-sign-detection](https://github.com/aarcosg/traffic-sign-detection) の Faster RCNN ResNet50をONNXに変換して推論するサンプルです。<br>
 ONNX変換は[Traffic-Sign-Detection-ONNX-Sample](Traffic-Sign-Detection-ONNX-Sample)をColaboratoryで実行しています。<br><br>
 
 このモデルはGTSDB(German Traffic Sign Detection Benchmark)で訓練されたモデルのため、ドイツ向けです。<br>
